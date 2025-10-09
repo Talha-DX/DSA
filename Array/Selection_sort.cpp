@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main(){
     int arr[] = {4, 3, 5, 1, 2, 9, 6, 7, 8, 10};
     int count = 10;
 
