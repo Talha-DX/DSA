@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void add(int num[], int &c)
-{
+void add(int num[], int &c){
 	if(c >= 10){
 		cout<<"No space left."<<endl;
 		return;
