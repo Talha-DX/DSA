@@ -62,11 +62,12 @@ int main()
     root->left->left = new Node(66);
     root->left->right->right = new Node(100);
 
-    // preorder(root);
+    preorder(root);
  
-    // inorder(root);
+    inorder(root);
 
     postorder(root);
     
     return 0;
 }
+
