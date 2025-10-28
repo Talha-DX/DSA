@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void swap(int arr[], int j)
-{
+void swap(int arr[], int j){
     if (arr[j] > arr[j + 1])
     {
         int temp = arr[j];
