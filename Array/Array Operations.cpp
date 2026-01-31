@@ -7,6 +7,7 @@ void add(int num[], int &c){
 		return;
 	}
 
+
 	int n,p;
 	cout << "Enter Number to add: " << endl;
 	cin >> n;
