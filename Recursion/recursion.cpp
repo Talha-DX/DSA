@@ -85,6 +85,7 @@ using namespace std;
 //                 arr[j] = arr[j-1];
 //             }
 
+
 //             if (i+1 < n){
 //                 arr[i+1] = 0;
 //             }
